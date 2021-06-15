@@ -54,5 +54,5 @@ $ pip3 install -r requirements.txt
 ![1623398535260](https://user-images.githubusercontent.com/54314892/122077988-db14a680-ce19-11eb-93f6-621914bc2fdf.gif)
 
 
-If you need any help in creating the bot or downloading the database,create a new issue [here](https://github.com/SRIJITH01/Automated-IITH-nss-and-aims/issues/new).
+If you need any help in creating the bot or downloading the database,create a new issue [here](https://github.com/SRIJITH01/Movie-suggestion-Telegram-bot/issues/new).
 
