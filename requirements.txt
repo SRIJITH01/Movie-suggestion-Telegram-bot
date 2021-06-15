@@ -1,0 +1,4 @@
+selenium
+numpy
+requests
+urllib3
