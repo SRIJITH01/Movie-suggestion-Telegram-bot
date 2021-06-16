@@ -5,7 +5,7 @@
 
 # Introduction
 This bot will suggest you movies based on some filters like streaming platform,language,year,rating.<br>
-You can use the given code to make your own bot or you can directly use my existing bot at https://telegram.me/Suggesting_movies_bot
+You can use the given code to make your own bot or you can directly use my existing bot at <a href="https://telegram.me/Suggesting_movies_bot" target="_blank">here</a>.
  
 ## Table of contents
 * [General info](#general-info)
