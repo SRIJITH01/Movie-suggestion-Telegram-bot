@@ -1,7 +1,9 @@
 
 
 # Movie-suggestion-Telegram-bot
-
+To clone repo use ```
+$ git clone https://github.com/SRIJITH01/Movie-suggestion-Telegram-bot.git
+```
 
 # Introduction
 This bot will suggest you movies based on some filters like streaming platform,language,year,rating.<br>
