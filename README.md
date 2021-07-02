@@ -1,7 +1,7 @@
 
 
 # Movie-suggestion-Telegram-bot
-To clone repo use 
+To clone this repo use 
 ```
 $ git clone https://github.com/SRIJITH01/Movie-suggestion-Telegram-bot.git
 ```
