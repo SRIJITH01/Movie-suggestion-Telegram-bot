@@ -41,7 +41,8 @@ $ pip3 install requests
 $ pip3 install urllib3
 $ apt install chromium-chromedriver
 ```
-or you can just download the latest version of chromedriver from [Website](https://chromedriver.chromium.org/downloads)<br>
+### or <br>
+you can just download the latest version of chromedriver from [Website](https://chromedriver.chromium.org/downloads)<br>
 
 and run in terminal <br>
 ```
